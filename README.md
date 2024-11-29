@@ -1,6 +1,6 @@
 # Site-fanta
 
-//Status: Finalizado!
+**Status: Finalizado!
 
 # Desenvolvido durante um curso
 Um site interativo, feito utilizando HTML5, CSS3 e JavaScript!
